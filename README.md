@@ -2,6 +2,10 @@ Project Overview
 This project focuses on analyzing bank loan data to understand loan application trends, funding performance, repayment behavior, and overall loan portfolio quality. 
 An interactive Power BI dashboard is developed to support data-driven decision-making for banking stakeholders.
 
+# Insurance Premium & Payout Analytics Dashboard
+
+[Live Interactive Dashboard](https://app.powerbi.com/groups/me/reports/fb8ae655-3711-4d86-aded-a852b00df14f/7947f5036290f3586ae7?experience=power-bi)
+
 Objectives
 Analyze total loan applications and monthly trends (MTD & MoM)
 Evaluate total funded amount and repayment performance
